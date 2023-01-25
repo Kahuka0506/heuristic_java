@@ -1,6 +1,6 @@
 # README
 
-Circle Packing Problem
+Clustering
 
 ```
 javac Main.java
@@ -9,4 +9,8 @@ javac Main.java
 java Main
 ```
 
-![img](./img.png "circle packing sample")
+### SA
+![img](./SA/img.png "SA")
+
+### K-mean
+![img](./k_mead/img.png "K-mean")

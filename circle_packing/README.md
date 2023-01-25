@@ -9,4 +9,4 @@ javac Main.java
 java Main
 ```
 
-![img](./tsp.png "circle packing sample")
+![img](./img.png "circle packing sample")

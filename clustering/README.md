@@ -13,4 +13,4 @@ java Main
 ![img](./SA/img.png "SA")
 
 ### K-mean
-![img](./k_mead/img.png "K-mean")
+![img](./k_mean/img.png "K-mean")
